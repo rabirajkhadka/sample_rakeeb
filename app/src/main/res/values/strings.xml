@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">gdg-workshop</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="favorite_colors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+
+</resources>
